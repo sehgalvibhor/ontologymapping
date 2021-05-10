@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2021/05/10/71298a2d-7028-45e6-a707-be0642ca796c-removebg-preview-1.png"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: OntoMap
   - link: "#swap"
     link_text: Swap
   - link: "#customize"
