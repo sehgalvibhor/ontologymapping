@@ -11,8 +11,8 @@ page_sections:
     link_text: OntoMap
   - link: "#about"
     link_text: About
-  - link: "#customize"
-    link_text: Customize
+  - link: "#team"
+    link_text: Team
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
