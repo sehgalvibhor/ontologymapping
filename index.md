@@ -20,8 +20,9 @@ page_sections:
   block: hero-2
   slug: features
   headline: OntoMap<br><strong>Automated Ontology Mapping for Cardiovascular Ailments</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: A model exposed to the medical community as a web application that allows
+    users to upload ECHO reports and extract a standardized representation of their
+    input.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
