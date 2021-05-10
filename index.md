@@ -15,7 +15,7 @@ page_sections:
     link_text: Team
   cta:
     url: "/"
-    button_text: Import
+    button_text: Home
 - template: hero-banner-w-image
   block: hero-2
   slug: features
