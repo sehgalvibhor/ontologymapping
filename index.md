@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: OntoMap
-  - link: "#swap"
-    link_text: Swap
+  - link: "#about"
+    link_text: About
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
