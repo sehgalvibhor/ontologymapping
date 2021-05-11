@@ -55,7 +55,7 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: <img src="/uploads/2021/05/11/ontologymappingresized.png">
+    content: <img src="/uploads/2021/05/11/ontology-mapping-1.png">
     headline: ''
     slug: ''
   col_2:
