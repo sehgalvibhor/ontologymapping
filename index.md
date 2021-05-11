@@ -47,6 +47,11 @@ page_sections:
     application that allows users to upload ECHO reports and extract a standardized
     representation of their input.
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/05/11/ontology-mapping-1.png"
+  slug: ''
+  caption: OntoMap Architecture
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -65,11 +70,6 @@ page_sections:
       will read the sentences in the data dictionary and generate the ontology for
       each sentence in the data dictionary. The hospitals can then review the resulting
       ontology on the web tool.<br>
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/05/11/ontology-mapping-1.png"
-  slug: ''
-  caption: OntoMap Architecture
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
