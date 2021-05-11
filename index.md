@@ -47,20 +47,6 @@ page_sections:
     application that allows users to upload ECHO reports and extract a standardized
     representation of their input.
   slug: ''
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2021/05/11/ontology-mapping.png"
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    slug: ''
-    content: <img src="/uploads/2021/05/11/ontology-mapping.png">
-    headline: Architecture
-  col_2:
-    headline: ''
-    slug: responsive
-    content: 'The OntoMap training pipeline comprises the following three components:
-      <br>1. Free-text pre-processor<br>2. Embeddings Generator<br>3. Model training'
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
