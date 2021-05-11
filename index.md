@@ -72,7 +72,7 @@ page_sections:
   caption: OntoMap Architecture
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2021/05/11/ontologymappingresized.png"
+  background_image: "/uploads/2021/05/11/ontology-mapping-1.png"
   image:
     image: ''
     alt_text: ''
