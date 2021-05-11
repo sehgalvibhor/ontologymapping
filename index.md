@@ -47,10 +47,6 @@ page_sections:
     a standardized ontology. This model is exposed to the medical community as a web
     application that allows users to upload ECHO reports and extract a standardized
     representation of their input.
-- template: detail-content
-  block: text-1
-  content: ''
-  headline: Architecture
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/05/11/ontology-mapping.png"
