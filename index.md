@@ -54,5 +54,10 @@ page_sections:
   block: text-1
   headline: ''
   content: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/05/11/ontology-mapping.png"
+  caption: OntoMap - Architecture
+  slug: pipieline-architecture
 
 ---
