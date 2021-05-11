@@ -47,7 +47,8 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: 'The OntoMap training pipeline comprises the following three components:
+      <br>1. Free-text pre-processor<br>2. Embeddings Generator<br>3. Model training'
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
