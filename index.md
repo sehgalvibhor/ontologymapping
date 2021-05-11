@@ -81,5 +81,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 
 ---
