@@ -47,6 +47,11 @@ page_sections:
     application that allows users to upload ECHO reports and extract a standardized
     representation of their input.
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/05/11/ontology-mapping-1.png"
+  slug: ''
+  caption: OntoMap Architecture
 - template: 2-column-text
   block: two-column-1
   col_1:
