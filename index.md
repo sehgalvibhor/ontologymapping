@@ -70,12 +70,9 @@ page_sections:
   image: "/uploads/2021/05/11/ontology-mapping-1.png"
   slug: ''
   caption: OntoMap Architecture
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2021/05/11/ontology-mapping-1.png"
+  background_image: "/uploads/2021/05/11/ontology-mapping.png"
   image:
     image: ''
     alt_text: ''
@@ -85,23 +82,8 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 4-column-footer
-  block: footer-2
-  image: ''
-  col_2: ''
-  col_3: ''
-  col_4: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Canada
 
 ---
