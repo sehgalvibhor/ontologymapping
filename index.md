@@ -47,6 +47,13 @@ page_sections:
     a standardized ontology. This model is exposed to the medical community as a web
     application that allows users to upload ECHO reports and extract a standardized
     representation of their input.
+- template: 1-column-text
+  block: one-column-1
+  content: '<img src="/uploads/2021/05/11/ontology-mapping.png"><br>The OntoMap training
+    pipeline comprises the following three components: <br>1. Free-text pre-processor<br>2.
+    Embeddings Generator<br>3. Model training'
+  headline: ''
+  slug: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
