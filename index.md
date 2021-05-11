@@ -50,6 +50,19 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
+    content: <img src="/uploads/2021/05/10/localhost_5000_index-ipad.png">
+    headline: ''
+    slug: ''
+  col_2:
+    headline: For Individual Users
+    slug: ''
+    content: A user can upload an echo report in the CSV format and the web application
+      runs preprocessing pipeline and model predictions in the backend to generate
+      the three-level ontology. Users can explore all the processed reports and individually
+      view each by selecting them.
+- template: 2-column-text
+  block: two-column-1
+  col_1:
     content: A user can upload an echo report in the CSV format and the web application
       runs preprocessing pipeline and model predictions in the backend to generate
       the three-level ontology. Users can explore all the processed reports and individually
