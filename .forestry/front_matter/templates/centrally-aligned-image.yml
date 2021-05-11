@@ -1,4 +1,9 @@
 ---
 label: centrally-aligned-image
 hide_body: false
-fields: []
+fields:
+- name: image-upload
+  type: file
+  config:
+    maxSize: 64
+  label: image-upload
