@@ -31,6 +31,22 @@ page_sections:
     image: "/uploads/2021/05/10/localhost_5000_index-ipad.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  slug: responsive
+  headline: Overview
+  content: Next to Chest X-ray, Echocardiogram (also known as cardiac ultrasound)
+    is the single highest-volume cardiac imaging test practiced in millions of hospitals
+    worldwide. There are numerous guidelines documents on what and how to measure
+    heart anatomy and function in an echocardiogram. This has led to different hospitals,
+    medical professionals and patients, speaking a different language when it comes
+    to communicating ECHO results. Harmonization of reports is needed not just to
+    directly improve clinical communications, but also to leverage the ontology labels
+    in pursuit of advanced machine learning on cardiac ultrasound imaging. We propose
+    a hierarchical ontology mapping model that can map free-text in ECHO reports to
+    a standardized ontology. This model is exposed to the medical community as a web
+    application that allows users to upload ECHO reports and extract a standardized
+    representation of their input.
 - template: detail-content
   block: text-1
   headline: Overview
@@ -68,22 +84,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: Overview
-  content: Next to Chest X-ray, Echocardiogram (also known as cardiac ultrasound)
-    is the single highest-volume cardiac imaging test practiced in millions of hospitals
-    worldwide. There are numerous guidelines documents on what and how to measure
-    heart anatomy and function in an echocardiogram. This has led to different hospitals,
-    medical professionals and patients, speaking a different language when it comes
-    to communicating ECHO results. Harmonization of reports is needed not just to
-    directly improve clinical communications, but also to leverage the ontology labels
-    in pursuit of advanced machine learning on cardiac ultrasound imaging. We propose
-    a hierarchical ontology mapping model that can map free-text in ECHO reports to
-    a standardized ontology. This model is exposed to the medical community as a web
-    application that allows users to upload ECHO reports and extract a standardized
-    representation of their input.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
