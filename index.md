@@ -54,10 +54,10 @@ page_sections:
       runs preprocessing pipeline and model predictions in the backend to generate
       the three-level ontology. Users can explore all the processed reports and individually
       view each by selecting them.<br>
-    headline: Report Upload
+    headline: For Individual Users
     slug: ''
   col_2:
-    headline: Data Dictionary Upload
+    headline: For Hospitals
     slug: ''
     content: Hospitals can upload a data dictionary that is a compilation of possible
       ECHO report free-text sentences used within their facility. This option enables
@@ -70,18 +70,6 @@ page_sections:
   image: "/uploads/2021/05/11/ontology-mapping-1.png"
   slug: ''
   caption: OntoMap Architecture
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/2021/05/11/ontology-mapping-1.png"
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
