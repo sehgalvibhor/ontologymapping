@@ -31,6 +31,10 @@ page_sections:
     image: "/uploads/2021/05/10/localhost_5000_index-ipad.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -77,5 +81,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+published: false
 
 ---
