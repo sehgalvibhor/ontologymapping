@@ -9,10 +9,6 @@ page_sections:
   navigation:
   - link: "/"
     link_text: OntoMap
-  - link: "#about"
-    link_text: About
-  - link: "#team"
-    link_text: Team
   cta:
     url: "/"
     button_text: Home
