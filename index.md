@@ -70,8 +70,5 @@ page_sections:
       will read the sentences in the data dictionary and generate the ontology for
       each sentence in the data dictionary. The hospitals can then review the resulting
       ontology on the web tool.<br>
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
 
 ---
