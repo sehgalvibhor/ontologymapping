@@ -46,7 +46,7 @@ page_sections:
     headline: Architecture
   col_2:
     headline: ''
-    slug: ''
+    slug: responsive
     content: 'The OntoMap training pipeline comprises the following three components:
       <br>1. Free-text pre-processor<br>2. Embeddings Generator<br>3. Model training'
 - template: simple-footer
