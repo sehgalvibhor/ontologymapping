@@ -47,20 +47,24 @@ page_sections:
     application that allows users to upload ECHO reports and extract a standardized
     representation of their input.
   slug: ''
-- template: detail-content
-  block: text-1
-  headline: Features
-  content: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
+    content: A user can upload an echo report in the CSV format and the web application
+      runs preprocessing pipeline and model predictions in the backend to generate
+      the three-level ontology. Users can explore all the processed reports and individually
+      view each by selecting them.<br>
+    headline: Report Upload
     slug: ''
-    content: ''
-    headline: ''
   col_2:
-    headline: ''
+    headline: Data Dictionary Upload
     slug: ''
-    content: ''
+    content: Hospitals can upload a data dictionary that is a compilation of possible
+      ECHO report free-text sentences used within their facility. This option enables
+      hospitals to test the tool their vernacular style of writing reports. The tool
+      will read the sentences in the data dictionary and generate the ontology for
+      each sentence in the data dictionary. The hospitals can then review the resulting
+      ontology on the web tool.<br>
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/05/11/ontology-mapping-1.png"
