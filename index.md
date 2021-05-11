@@ -76,7 +76,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: Model Pipeline &amp; Architecture
+  headline: ''
   content: ''
   cta:
     enabled: false
