@@ -47,6 +47,20 @@ page_sections:
     application that allows users to upload ECHO reports and extract a standardized
     representation of their input.
   slug: ''
+- template: detail-content
+  block: text-1
+  headline: Features
+  content: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    slug: ''
+    content: ''
+    headline: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/05/11/ontology-mapping-1.png"
@@ -55,5 +69,23 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+- template: 4-column-footer
+  block: footer-2
+  image: ''
+  col_2: ''
+  col_3: ''
+  col_4: ''
 
 ---
